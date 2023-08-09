@@ -9,12 +9,3 @@ Built with Python and Tkinter for GUI.
 
 To run the code, type;
 python main.py in the command prompt
-
-Contributing
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to create an issue or pull request.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgments
-Dice images provided by DiceGuru.
