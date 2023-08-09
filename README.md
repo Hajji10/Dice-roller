@@ -1,10 +1,12 @@
 Dice Roller
-A simple Python GUI application for simulating the roll of a six-sided dice. Built using the Tkinter library for creating the graphical interface and the PIL (Python Imaging Library) for loading and displaying dice images.
 
-Features
-Roll a virtual dice by clicking the "Roll the dice" button.
-Display a random dice face with each button click.
-Built with Python and Tkinter for GUI.
+This is a basic Python program built using the Tkinter library for creating a graphical user interface (GUI). The program simulates rolling a six-sided dice, displaying a random dice face whenever the "Roll the dice" button is clicked. The dice images are loaded using the PIL (Python Imaging Library) module.
+
+Features:
+
+Click the "Roll the dice" button to roll a virtual dice.
+The program displays a random dice face each time the button is clicked.
+Created using Python and Tkinter for GUI.
 
 
 To run the code, type;
